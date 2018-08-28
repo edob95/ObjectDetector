@@ -1,0 +1,9 @@
+Link Utili:
+
+Pagina tensor flow con dettaglio sull'object detection:
+
+  https://www.tensorflow.org/tutorials/image_recognition
+
+Repository GitHub API tensorflow per object detection:
+
+  https://github.com/tensorflow/models

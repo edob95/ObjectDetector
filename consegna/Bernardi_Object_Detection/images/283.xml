@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>283.jpg</filename>
+	<path>C:\Users\edoar\Desktop\images\283.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>san_bernardo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>289</ymin>
+			<xmax>1266</xmax>
+			<ymax>864</ymax>
+		</bndbox>
+	</object>
+</annotation>
